@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+  color: pink;
+  font-family: papyrus;
+
+}
+.transactionStatus {
+  text-align: center;
+  color: white;
+  list-style-type: none;
+}
+body {
+  text-align: center;
+  background: black; 
+  font-family: white "Roboto", sans-serif;
+}
+button {
+  border-radius: 80px;
+  color: black;
+  background: pink;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  font-size: 85%;
+  color: white;
+  text-align: left;
+}
